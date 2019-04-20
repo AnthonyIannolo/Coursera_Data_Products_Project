@@ -8,4 +8,4 @@ This Coursera course project has two major parts.  The first is to create a shin
 https://anthonyiannolo.shinyapps.io/shiny_linear_model/
 
 - The shiny application ui and server code is located in guthub at the following link:
-https://github.com/AnthonyIannolo/Coursera_Data_Products_Project
+https://github.com/AnthonyIannolo/Coursera_Data_Products_Project_
